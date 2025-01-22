@@ -19,13 +19,13 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- ###Key Risk Factors:
+- Key Risk Factors:
   * Higher loan grades (E-G) show significantly higher default rates.
   * Higher rates indicate higher risk profiles
   * Combined high DTI and high revolving utilization indicate increased risk.
   * Larger loans show slightly higher default tendency
 
-- ###Recommendations:
+- Recommendations:
   * Focus on Grade A-C loans for lower risk portfolio.
   * Implement stricter criteria for high DTI + high utilization combinations.
   * Consider loan amount caps for higher risk grades.
