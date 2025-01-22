@@ -10,11 +10,11 @@
 
 ## General Information
 - What is the background of your project?
-  In the financial lending sector, institutions such as banks, credit unions, and fintech companies offer loans to individuals or businesses. These institutions face challenges such as determining whether to give loan to an individual, predicting loan defaults, managing risk. We aim to address these challenges using data-driven approach.
+  ... In the financial lending sector, institutions such as banks, credit unions, and fintech companies offer loans to individuals or businesses. These institutions face challenges such as determining whether to give loan to an individual, predicting loan defaults, managing risk. We aim to address these challenges using data-driven approach.
 - What is the business probem that your project is trying to solve?
-  Loan default is a significant challenge for lenders, impacting profitability and financial stability. This case study examines key factors influencing defaults, such as interest rates, debt-to-income ratios, and grade.By analysing these variables, we aim to uncover patterns that can help lenders improve risk management and optimize loan decisions.
+  ... Loan default is a significant challenge for lenders, impacting profitability and financial stability. This case study examines key factors influencing defaults, such as interest rates, debt-to-income ratios, and grade.By analysing these variables, we aim to uncover patterns that can help lenders improve risk management and optimize loan decisions.
 - What is the dataset that is being used?
-  We are using loan data for all loans issued through the time period 2007 t0 2011/
+  ... We are using loan data for all loans issued through the time period 2007 t0 2011/
 
 ## Conclusions
 - Key Risk Factors:
