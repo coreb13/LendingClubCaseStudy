@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Loan default is a significant challenge for lenders, impacting profitability and financial stability. This case study examines key factors influencing defaults, such as interest rates, debt-to-income ratios, and grade.By analysing these variables, we aim to uncover patterns that can help lenders improve risk management and optimize loan decisions.
 
 
 ## Table of Contents
@@ -19,7 +19,16 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
+- Key Risk Factors:
+-- Higher loan grades (E-G) show significantly higher default rates.
+-- Higher rates indicate higher risk profiles
+-- Combined high DTI and high revolving utilization indicate increased risk.
+-- Larger loans show slightly higher default tendency
+
+Recommendations:
+Focus on Grade A-C loans for lower risk portfolio.
+Implement stricter criteria for high DTI + high utilization combinations.
+Consider loan amount caps for higher risk grades.
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
